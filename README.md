@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Luke, I am a data scientist currently looking for my first full-time role.
+
+When I'm not coding, you'll find me playing football, running, and in the gym.
+
+📫 How to reach me: www.linkedin.com/in/lukemerrilll
+
+
 <!--
 **LukeMerrill13/LukeMerrill13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
