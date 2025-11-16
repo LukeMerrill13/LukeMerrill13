@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am an MSc Data Science gradaute with extensive experience within elite level football.
+I am an MSc Data Science gradaute with extensive experience in elite-level football.
 
-Previously, I have a produced a range of personal and academic projects but I am now focused on football - using event, tracking and physical data to provide insights across all factes of the game.
+Previously, I have produced a range of personal and academic projects but, I am now focused on football - using event, tracking and physical data to provide insights across all facets of the game.
 
 📫 How to reach me: www.linkedin.com/in/lukemerrilll
 
