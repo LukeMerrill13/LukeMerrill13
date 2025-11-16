@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Luke, I am a data scientist currently looking for my first full-time role.
+I am an MSc Data Science gradaute with extensive experience within elite level football.
 
-When I'm not coding, you'll find me playing football, running, and in the gym.
+Previously, I have a produced a range of personal and academic projects but I am now focused on football - using event, tracking and physical data to provide insights across all factes of the game.
 
 📫 How to reach me: www.linkedin.com/in/lukemerrilll
 
